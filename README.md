@@ -1,6 +1,6 @@
 # Pokedex 
 
-# I used PokeAPI to this to access each respective pokemon information.
+I used PokeAPI to this to access each respective pokemon information.
 
 # This Project opened me up to API
 
