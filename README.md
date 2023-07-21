@@ -6,6 +6,8 @@ I used PokeAPI to this to access each respective pokemon information.
 
 Project By - Fan Karwanta | Html, CSS and JavaScript
 
+
 You can use this to your portfolio. Just credit the real owner.
 
+You can access this to my website:
 My Portfolio Website : https://fankarwanta.com
