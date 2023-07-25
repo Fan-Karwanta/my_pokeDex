@@ -8,6 +8,7 @@ Project By - Fan Karwanta | Html, CSS and JavaScript
 
 
 You can use this to your portfolio. Just credit the real owner.
+Main Project Purpose is for fun and practice.
 
 You can access this by visiting my website: 
 
