@@ -1,4 +1,4 @@
-# Pokedex 
+# Fans Pokedex 
 
 I used PokeAPI to this to access each respective pokemon information. With all of the pokemon details.
 
