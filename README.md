@@ -17,4 +17,4 @@ You can access this by visiting my website: In the projects section.
 
 My Portfolio Website : https://fankarwanta.com
 
-All Rights Reserved.
+2023 All Rights Reserved.
