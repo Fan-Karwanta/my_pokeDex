@@ -4,6 +4,8 @@ I used PokeAPI to this to access each respective pokemon information. With all o
 
 # This Project opened me up to API
 
+WELCOME
+
 By Fan Karwanta | Html, CSS and JavaScript.
 
 
